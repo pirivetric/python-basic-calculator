@@ -1,0 +1,1 @@
+#Typecasting je proces pretvaranja jednog data tipa variabla u drugi
